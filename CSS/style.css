@@ -1,0 +1,17 @@
+* {
+    margin: 0 !important;
+    padding: 12px !important;
+    box-sizing: border-box !important;
+}
+
+body {
+    background-color: #b8a4e2 !important;
+}
+
+p{
+    color: rgb(9, 8, 8);
+}
+
+.card-text{
+    color: black;
+}
